@@ -24,7 +24,7 @@ J'ai besoin de
 C'est pourquoi je me suis inscrit à La _FOAD Game of Codes Simplonline_
  [Simplonline](http://www.simplonline.com)
 
-Retrouvez mon parcours sur [LinkedIn ](http://fr.linkedin.com/in/ftilliere)
+Retrouvez mon parcours sur [LinkedIn](http://fr.linkedin.com/in/ftilliere)
 
 
 
