@@ -11,7 +11,7 @@ Auparavant, j'ai habité dans les villes suivantes :
 
 ## Résumé
 Je travaille dans le monde du web et de la commmunication depuis plus de 15 ans.
-j'ai occuppé différents postes tels que : *chef de projet*, *business developper*
+j'ai occupé différents postes tels que : *chef de projet*, *business developper*
 *biblioticien*, *consultant AMOA*, *responsable produit*, *formateur*,...
 
 J'ai une assez bonne connaissance des enjeux liés à la création de dispositifs
